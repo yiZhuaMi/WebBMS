@@ -1,0 +1,70 @@
+@CHARSET "UTF-8";
+
+
+body{font-size:12px;font-family:"圆体-简";text-align:center} 
+			a{margin:0 0 5 0;text-decoration: none;}
+			a:link{color:#01B468}
+			a:visited{color:#6F00D2}
+			a:hover{color:#2894FF}
+			p{ margin:0; padding:0;} 
+			h1{font-size:80px}
+			input{background:#fff;margin:0 auto}
+			
+			#chang 
+			{
+				background-color:black;
+				border: 0px ;
+				height:230px;
+				width:1455px;
+				position:   absolute;
+				margin:10 0 0 0 
+			}
+
+			.SButton
+			{
+				width:178px;
+				height:178px;
+				border:0px;
+				background:url('/WebBMS/images/SButton.png') no-repeat;
+				transition:0.25s;
+			}
+			.SButton:hover
+			{
+				background:url('/WebBMS/images/gSButton.png') no-repeat;
+			}
+			.DButton
+			{
+				width:178px;
+				height:178px;
+				border:0px;
+				background:url('/WebBMS/images/DButton.png') no-repeat;
+				transition:0.25s;
+			}
+			.DButton:hover
+			{
+				background:url('/WebBMS/images/gDButton.png') no-repeat;
+			}
+			.MButton
+			{
+				width:178px;
+				height:178px;
+				border:0px;
+				background:url('/WebBMS/images/MButton.png') no-repeat;
+				transition:0.25s;
+			}
+			.MButton:hover
+			{
+				background:url('/WebBMS/images/gMButton.png') no-repeat;
+			}
+			.AButton
+			{
+				width:178px;
+				height:178px;
+				border:0px;
+				background:url('/WebBMS/images/AButton.png') no-repeat;
+				transition:0.25s;
+			}
+			.AButton:hover
+			{
+				background:url('/WebBMS/images/gAButton.png') no-repeat;
+			}
